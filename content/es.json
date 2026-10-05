@@ -1,0 +1,99 @@
+{
+  "lang": "es",
+  "site": {
+    "name": "P&P URBANEX SL",
+    "brand": "urbanex",
+    "url": "https://urbanex.taxiprime.app",
+    "email": "admin@taxisabadell.online",
+    "nif": "B26613299",
+    "status": "Sociedad limitada unipersonal",
+    "address": "Via Aurèlia 24, planta 6, puerta 4, 08206 Sabadell, Barcelona",
+    "addressLines": ["Via Aurèlia 24, planta 6, puerta 4", "08206 Sabadell, Barcelona"],
+    "registry": "Registro Mercantil de Barcelona, hoja B-649926, folio 1, IRUS 1000466183685",
+    "description": "Información corporativa y contacto de P&P URBANEX SL, sociedad limitada unipersonal con domicilio social en Sabadell."
+  },
+  "shared": {
+    "skip": "Saltar al contenido",
+    "navLabel": "Navegación principal",
+    "home": "Inicio",
+    "about": "La sociedad",
+    "contact": "Contacto",
+    "legal": "Aviso legal",
+    "privacy": "Privacidad y cookies",
+    "footerNav": "Información legal",
+    "nifLabel": "NIF",
+    "back": "Volver al inicio",
+    "updated": "Última actualización: 5 de octubre de 2026"
+  },
+  "home": {
+    "title": "P&P URBANEX SL | Información corporativa",
+    "eyebrow": "Información corporativa",
+    "heading": "P&P URBANEX SL",
+    "intro": "Sociedad limitada unipersonal con domicilio social en Sabadell.",
+    "cta": "Contactar con Urbanex",
+    "location": "Sabadell · Barcelona",
+    "aboutNumber": "01",
+    "aboutLabel": "La sociedad",
+    "aboutTitle": "Nuestro objeto social",
+    "aboutText": "Nuestro objeto social tiene como actividad principal la compraventa de bienes inmobiliarios por cuenta propia e incluye la promoción y el alquiler inmobiliario.",
+    "activityLabel": "Actividad principal estatutaria",
+    "activity": "Compraventa de bienes inmobiliarios por cuenta propia",
+    "otherLabel": "También en el objeto social",
+    "other": "Promoción y alquiler inmobiliario",
+    "contactNumber": "02",
+    "contactTitle": "Hablemos",
+    "contactIntro": "Para consultas dirigidas a P&P URBANEX SL, puedes escribirnos por correo electrónico.",
+    "emailLabel": "Correo de contacto",
+    "addressLabel": "Domicilio social",
+    "privacyNote": "Consulta cómo tratamos los datos de tu comunicación en nuestra política de privacidad."
+  },
+  "legal": {
+    "title": "Aviso legal | P&P URBANEX SL",
+    "heading": "Aviso legal",
+    "intro": "Identificación de la sociedad titular de este sitio web y condiciones de uso.",
+    "identityHeading": "1. Identificación del titular",
+    "identityLabels": {
+      "name": "Denominación social",
+      "status": "Forma societaria",
+      "nif": "NIF",
+      "address": "Domicilio social",
+      "email": "Correo electrónico",
+      "registry": "Inscripción registral"
+    },
+    "sections": [
+      { "heading": "2. Finalidad del sitio", "paragraphs": ["Este sitio proporciona información corporativa de P&P URBANEX SL y un canal de contacto por correo electrónico. Las referencias al objeto social describen actividades previstas en sus estatutos y no acreditan, por sí mismas, su ejercicio efectivo.", "La web no permite contratar servicios, efectuar reservas ni realizar pagos."] },
+      { "heading": "3. Uso de la información", "paragraphs": ["La información publicada tiene carácter general. Las consultas y, en su caso, las condiciones de una relación comercial se atenderán directamente por los canales de contacto de la sociedad.", "Se debe utilizar el sitio de forma lícita, respetando los derechos de terceros y sin interferir en su funcionamiento."] },
+      { "heading": "4. Propiedad intelectual", "paragraphs": ["Los derechos sobre los contenidos y elementos gráficos de este sitio corresponden a sus respectivos titulares. Su publicación no implica la cesión de esos derechos. Cualquier uso debe respetar la legislación aplicable y, cuando corresponda, contar con autorización."] },
+      { "heading": "5. Disponibilidad y actualización", "paragraphs": ["P&P URBANEX SL procura mantener la información correcta y actualizada. Si detectas un error, puedes comunicarlo al correo de contacto. El acceso puede interrumpirse por mantenimiento o incidencias técnicas, sin perjuicio de las responsabilidades legalmente exigibles."] },
+      { "heading": "6. Normativa aplicable", "paragraphs": ["El uso de este sitio se rige por la normativa española y europea aplicable. Cualquier controversia se someterá a los órganos competentes conforme a la ley, respetando los derechos que correspondan a las personas consumidoras."] }
+    ]
+  },
+  "privacy": {
+    "title": "Privacidad y cookies | P&P URBANEX SL",
+    "heading": "Privacidad y cookies",
+    "intro": "Información sobre las consultas por correo y los datos técnicos necesarios para servir esta web.",
+    "identityHeading": "1. Responsable del tratamiento",
+    "identityIntro": "El responsable del tratamiento de las consultas dirigidas a la sociedad es P&P URBANEX SL, sociedad limitada unipersonal, con NIF B26613299 y domicilio social en Via Aurèlia 24, planta 6, puerta 4, 08206 Sabadell, Barcelona.",
+    "identityContact": "Puedes contactar con el responsable y ejercer tus derechos escribiendo a:",
+    "sections": [
+      { "heading": "2. Datos y finalidades", "paragraphs": ["Si nos escribes, tratamos tu dirección de correo, los datos identificativos que facilites y el contenido de tu mensaje para atender la consulta y gestionar las comunicaciones relacionadas. Facilita únicamente la información necesaria para esa finalidad.", "La web no dispone de formularios, cuentas de usuario ni sistemas de contratación. El alojamiento puede procesar dirección IP, información del navegador y registros técnicos para entregar las páginas, mantener la disponibilidad y prevenir incidencias de seguridad."] },
+      { "heading": "3. Bases jurídicas", "paragraphs": ["Las consultas relacionadas con una posible contratación se atienden sobre la base de las medidas precontractuales solicitadas por la persona interesada. Las demás comunicaciones se gestionan sobre la base del interés legítimo de atender las consultas dirigidas a la sociedad, con respeto a los derechos de quien contacta.", "Los datos técnicos necesarios para el funcionamiento y la seguridad se tratan sobre la base del interés legítimo de mantener un sitio disponible y seguro. Cuando exista una obligación legal, el tratamiento necesario se basará en su cumplimiento."] },
+      { "heading": "4. Conservación", "paragraphs": ["Las comunicaciones se conservan durante el tiempo necesario para atender la consulta y gestionar la relación que pueda derivarse de ella. Cuando proceda, se mantendrán los datos exigidos por obligaciones legales o durante los plazos aplicables para atender posibles responsabilidades. Después se suprimirán o se conservarán bloqueados cuando la ley lo requiera.", "La conservación de los registros técnicos depende de su finalidad de funcionamiento y seguridad y de las condiciones aplicables al servicio de alojamiento."] },
+      { "heading": "5. Proveedores y destinatarios", "paragraphs": ["El sitio está alojado en Vercel. El correo de contacto utiliza la infraestructura de correo de Google. Estos servicios pueden tratar datos necesarios para prestar el alojamiento y gestionar las comunicaciones, conforme a sus condiciones y acuerdos de protección de datos.", "Los proveedores pueden utilizar infraestructura o subencargados fuera del Espacio Económico Europeo. Cuando corresponda, las transferencias deben quedar amparadas por los mecanismos previstos en el RGPD, como decisiones de adecuación o cláusulas contractuales tipo. Puedes solicitar información adicional al correo de contacto.", "No utilizamos los datos de contacto para elaborar perfiles ni para enviar publicidad. Los datos podrán comunicarse a autoridades cuando exista una obligación legal."] },
+      { "heading": "6. Derechos", "paragraphs": ["Puedes solicitar acceso, rectificación, supresión, limitación del tratamiento, oposición y portabilidad cuando resulten aplicables. Envía tu solicitud al correo de contacto, indicando el derecho que deseas ejercer. Si fuera necesario verificar tu identidad, solo se solicitará la información proporcionada y necesaria para ello.", "También puedes presentar una reclamación ante la Agencia Española de Protección de Datos."] },
+      { "id": "cookies", "heading": "7. Cookies y tecnologías similares", "paragraphs": ["El código de este sitio no instala cookies ni utiliza almacenamiento local, analítica, publicidad, píxeles de seguimiento o contenidos incrustados de terceros. No incluye un panel de consentimiento porque no solicita el uso de cookies no esenciales.", "El navegador puede enviar cookies previamente establecidas por otros servicios para el dominio compartido taxiprime.app. Esta web no las lee mediante JavaScript ni las utiliza para personalizar el contenido o realizar seguimiento. Puedes gestionarlas desde la configuración de tu navegador.", "Si en el futuro se incorporan tecnologías que requieran información o consentimiento, se actualizará esta política antes de activarlas."] },
+      { "heading": "8. Actualizaciones", "paragraphs": ["Esta política se revisará cuando cambien los tratamientos o los proveedores del sitio. La fecha de actualización figura al inicio de esta página."] }
+    ],
+    "authorityLabel": "Agencia Española de Protección de Datos",
+    "authorityUrl": "https://www.aepd.es/",
+    "providerLinks": [
+      { "label": "Protección de datos de Vercel", "url": "https://vercel.com/legal/dpa" },
+      { "label": "Privacidad de Google", "url": "https://policies.google.com/privacy?hl=es" }
+    ]
+  },
+  "notFound": {
+    "title": "Página no encontrada | P&P URBANEX SL",
+    "heading": "Esta página no existe",
+    "intro": "Puedes volver al inicio para consultar la información de la sociedad o contactar con nosotros."
+  }
+}
